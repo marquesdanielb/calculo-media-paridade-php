@@ -4,17 +4,17 @@
 | Você precisa ter o php instalado no seu ambiente (seu computador).| 
 
 ## Como testar o projeto:
-    - Clone este repositório:
+    Clone este repositório:
     ´´´
     git clone https://github.com/marquesdanielb/calculo-media-paridade-php.git
     ´´´
     
-    - Entre no diretório clonado com o <b>cd</b>:
+    Entre no diretório clonado com o <b>cd</b>:
     ´´´
     cd calculo-media-paridade-php
     ´´´
     
-    - Ainda no terminal, execute o comando php com o nome do arquivo index:
+    Ainda no terminal, execute o comando php com o nome do arquivo index:
     ´´´
     php index.php
     ´´´
