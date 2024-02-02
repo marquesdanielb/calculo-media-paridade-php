@@ -6,15 +6,17 @@
 ## Como testar o projeto:
     - Clone este repositório:
     ```
-        git clone https://github.com/marquesdanielb/calculo-media-paridade-php.git
+    git clone https://github.com/marquesdanielb/calculo-media-paridade-php.git
     ```
+    
     - Entre no diretório clonado com o <b>cd</b>:
     ```
-        cd calculo-media-paridade-php
+    cd calculo-media-paridade-php
     ```
+    
     - Ainda no terminal, execute o comando php com o nome do arquivo index:
     ```
-        php index.php
+    php index.php
     ```
 
 ## Requisitos para o teste
