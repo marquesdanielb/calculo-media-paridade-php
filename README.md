@@ -8,7 +8,7 @@
     - git clone https://github.com/marquesdanielb/calculo-media-paridade-php.git
 
     
-    Entre no diretório clonado com o <b>cd</b>:
+    Entre no diretório clonado com o cd:
     - cd calculo-media-paridade-php
     
     Ainda no terminal, execute o comando php com o nome do arquivo index:
@@ -17,7 +17,6 @@
 ## Requisitos para o teste
 ### Configuração do Repositório:
 	- [x] Crie um repositório no github
-	- [x] Permita o acesso de leitura para mizael.pardinho@cadsconsultoria.com.br
 
 ### Tarefa:
 	Crie um programa PHP que atenda aos seguintes requisitos:
